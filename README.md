@@ -1,8 +1,6 @@
 # Global Suicide Rates: A Mental Health Investigation
 
 June is Men's Mental Health Awareness Month, which serves as a crucial opportunity to shed light on these issues, fostering awareness and advocacy for improved mental health care and support systems. Mental health is a critical yet often overlooked aspect of overall well-being. Among men, societal expectations, stigma, and limited access to resources can create barriers to seeking help, leading to disproportionately high suicide rates worldwide. 
-<br> <br>
-This project aims to investigate suicide trends through data science, examining factors such as economic conditions, healthcare access, social isolation, and policy effectiveness. By leveraging analytical techniques and real-world datasets, we hope to contribute to meaningful discussions and data-driven solutions for suicide prevention.
 
 ## Overview
 This project examines global suicide trends through a series of Jupyter notebooks. Using data-driven approaches, we analyze gender disparities, age-specific trends, economic influences, cultural factors, and policy impacts to better understand suicide rates, particularly in the context of Men's Mental Health Awareness Month.
