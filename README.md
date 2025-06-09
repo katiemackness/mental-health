@@ -17,7 +17,8 @@ The study focuses on key analytical questions, including:
 
 ## Data Sources
 Primary data for analysis includes:
-- **[WHO Mortality Database](https://platform.who.int/mortality)**
+- **[WHO Mortality Database](https://www.who.int/data/data-collection-tools/who-mortality-database)**
+    * Due to large size of CSV files, raw data is accessible through the WHO website.
 - **[World Bank Economic Indicators](https://databank.worldbank.org)**
 - **National Suicide Prevention Statistics** (country-specific datasets)
 
