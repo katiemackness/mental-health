@@ -1,4 +1,4 @@
-# Global Suicide Rates: A Data Science Investigation
+# Global Suicide Rates: A Mental Health Investigation
 
 June is Men's Mental Health Awareness Month, which serves as a crucial opportunity to shed light on these issues, fostering awareness and advocacy for improved mental health care and support systems. Mental health is a critical yet often overlooked aspect of overall well-being. Among men, societal expectations, stigma, and limited access to resources can create barriers to seeking help, leading to disproportionately high suicide rates worldwide. 
 <br> <br>
